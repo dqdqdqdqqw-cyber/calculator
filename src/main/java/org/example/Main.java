@@ -10,7 +10,7 @@ public class Main {
         System.out.print("Введите первое число-> ");
         int firstNumber = sc.nextInt();
         System.out.print("Введите второе число-> ");
-        int secontNumber = sc.nextInt();
+        int secondNumber = sc.nextInt();
         System.out.print("Выберите операцию (+, -, *. /) ->");
         String oper = sc.nextLine();
     }
