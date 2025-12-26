@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class Main {
     static void main() {
 
+
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите первое число-> ");
         int firstNumber = sc.nextInt();
